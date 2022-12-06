@@ -3,7 +3,6 @@
 #Link to Youtube: 
 https://youtu.be/u5k8xauebdw 
 
-"""
 Overview:
 Climb and Slide is a variation of the traditional game, Snakes and Ladders  
 The game is two-player and the goal is to reach the last square in the top left corner of the board while dodging slippery slides and utilizing the various ropes to gain speed. We utilized stars to cause random questions to pop-up while the players are involved in the game to increase critical thinking and involve interesting trivia 
@@ -30,7 +29,6 @@ When we were planning this game, we expected to do a lot more than what we were 
 It also took time to figure out how the dice rolls would be different depending 
 Another challenge that we weren’t able to figure out in time was how to have the character pawns turn around on the board and how to have the pawns slide down the slide and climb up the rope.
 We didn’t expect that overcoming these challenges would take so long, so the code that we uploaded is a prototype of how the game should work. 
-"""
 
 
 
